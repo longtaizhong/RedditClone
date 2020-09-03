@@ -1,0 +1,5 @@
+Server side rendering 
+
+Next js 
+Server-side scripting is a technique used in web development which involves
+ employing scripts on a web server which produce a response customized for each user's request to the website. 
